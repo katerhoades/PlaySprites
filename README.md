@@ -20,7 +20,7 @@
 
 P5 play is a library for the creation of games. It covers BASIC sprite creation, control, and collisions.
 
-Great for play and prototyping in p5, not the best for building out more robust games.
+Great for play and prototyping in p5, not the best for building out more robust projects.
 
 <br>
 
